@@ -1,7 +1,7 @@
 ## Hi there 👋
  I am **Ayush** 👦🏻 starting my journey in the World of Computers 💻.
 
- I am a 3rd year Computer Science Student 🎓 at Symbiosis Institute of Technology (SIT).
+ I am a 4th year Computer Science Student 🎓 at Symbiosis Institute of Technology (SIT).
 
 **Always seeking for projects and opportunities to expand my horizons**. 
 
