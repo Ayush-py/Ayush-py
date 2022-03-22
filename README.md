@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![image](https://user-images.githubusercontent.com/59610160/159508711-8cc4d842-6663-4b29-948d-a24ad819caa4.png)
+![image](https://user-images.githubusercontent.com/59610160/159508711-8cc4d842-6663-4b29-948d-a24ad819caa4.gif)
 
  I am **Ayush** 👦🏻 starting my journey in the World of Computers 💻.
 
