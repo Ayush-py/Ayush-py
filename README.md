@@ -14,9 +14,7 @@ I am **Ayush** 👦🏻 starting my journey in the World of Computers 💻.
 
 ### 🌱 I’m currently learning
 
-<img src="https://user-images.githubusercontent.com/59610160/159508313-3e1b6327-0b24-4917-b89f-9dc698d2b8a6.png" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/59610160/159508947-b2b47d36-24ae-4f39-899a-bd6977f7d588.png" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/59610160/159509198-ee3a8fd6-f183-435f-90bf-6226891f2c15.png" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/59610160/159508313-3e1b6327-0b24-4917-b89f-9dc698d2b8a6.png" width="200" height="159" />   <img src="https://user-images.githubusercontent.com/59610160/159508947-b2b47d36-24ae-4f39-899a-bd6977f7d588.png" width="200" height="159" />    <img src="https://user-images.githubusercontent.com/59610160/159509198-ee3a8fd6-f183-435f-90bf-6226891f2c15.png" width="200" height="159" />
 
 ## 📫 How to reach me: ...
  ~ Connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-tiwari-2867811b2/) 🤵🏻
