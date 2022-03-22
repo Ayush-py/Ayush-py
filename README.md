@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+I am **Ayush** 👦🏻 starting my journey in the World of Computers 💻.
 
- I am **Ayush** 👦🏻 starting my journey in the World of Computers 💻.
+![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
  I am a 4th year Computer Science Student 🎓 at Symbiosis Institute of Technology (SIT).
 
